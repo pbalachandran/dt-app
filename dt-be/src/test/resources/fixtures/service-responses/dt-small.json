@@ -1,0 +1,22 @@
+{
+  "projectResponses": null,
+  "nodeResponse": {
+    "name": "Paint Projects",
+    "children": [
+      {
+        "name": "Home Repaint Inside",
+        "children": [
+          {
+            "name": "Paint-3000",
+            "children": []
+          },
+          {
+            "name": "Paint-3000+",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "projectNotFoundResponse": null
+}
